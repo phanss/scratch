@@ -1,2 +1,4 @@
 # scratch
-repository with no desc
+
+Dumb repo to play with scala / other stuff
+
